@@ -1,0 +1,19 @@
+{
+    "plugin-data": {
+        "name": "Fedi Reacties",
+        "description": "Voeg Fediverse reacties toe aan je pagina."
+    },
+    "please-support-mrbot": "Als je mijn plugin leuk vindt, steun me dan door op de knop hieronder te klikken. Dank je!",
+    "shortcut": "Beheerderszijbalk",
+    "show-shortcut": "Toon snelkoppeling",
+    "fedi-help": "Gebruik de volgende placeholder om de Fediverse reacties in je bericht te plaatsen: <code>[[FEDI::$post_id]]</code>.",
+    "fedi-host": "Host",
+    "fedi-host-tip": "De Fediverse hostnaam, voorbeeld: https://mastodon.social",
+    "fedi-user": "Gebruikersnaam",
+    "fedi-user-tip": "De Fediverse gebruikersnaam zonder de @, voorbeeld: gebruikersnaam in plaats van @gebruikersnaam.",
+    "fedi-key": "API Sleutel",
+    "fedi-key-tip": "Je kunt een API sleutel maken op: <a href=\"https://takahashim.github.io/mastodon-access-token/\" target=\"_blank\">https://takahashim.github.io/mastodon-access-token/</a>",
+    "fedi-dialog-reply": "Dialoog antwoord tekst",
+    "fedi-dialog-copy": "Dialoog kopie tekst",
+    "fedi-styles": "CSS Stijlen"
+}

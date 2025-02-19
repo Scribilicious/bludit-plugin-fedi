@@ -1,0 +1,19 @@
+{
+    "plugin-data": {
+        "name": "Fedi Комментарии",
+        "description": "Включите комментарии из Федиверса на вашу страницу."
+    },
+    "please-support-mrbot": "Если вам нравится мой плагин, пожалуйста, поддержите меня, нажав на кнопку ниже. Спасибо!",
+    "shortcut": "Боковая панель администратора",
+    "show-shortcut": "Показать ярлык",
+    "fedi-help": "Используйте следующий плейсхолдер для размещения комментариев Федиверса в вашем посте: <code>[[FEDI::$post_id]]</code>.",
+    "fedi-host": "Хост",
+    "fedi-host-tip": "Имя хоста Федиверса, например: https://mastodon.social",
+    "fedi-user": "Имя пользователя",
+    "fedi-user-tip": "Имя пользователя Федиверса без @, например: username вместо @username.",
+    "fedi-key": "API Ключ",
+    "fedi-key-tip": "Вы можете создать API ключ по адресу: <a href=\"https://takahashim.github.io/mastodon-access-token/\" target=\"_blank\">https://takahashim.github.io/mastodon-access-token/</a>",
+    "fedi-dialog-reply": "Текст ответа диалога",
+    "fedi-dialog-copy": "Текст копирования диалога",
+    "fedi-styles": "CSS Стили"
+}

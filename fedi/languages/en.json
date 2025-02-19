@@ -1,0 +1,19 @@
+{
+    "plugin-data": {
+        "name": "Fedi Comments",
+        "description": "Include Fediverse comments into your page."
+    },
+    "please-support-mrbot": "If you enjoy my plugin, please support me by clicking the button below. Thank you!",
+    "shortcut": "Admin sidebar",
+    "show-shortcut": "Show shortcut",
+    "fedi-help": "Use the following placeholder to place the Fediverse comments in your post: <code>[[FEDI::$post_id]]</code>.",
+    "fedi-host": "Host",
+    "fedi-host-tip": "The Fediverse hostname, example: https://mastodon.social",
+    "fedi-user": "Username",
+    "fedi-user-tip": "The Fediverse username without the @, example: username instead of @username.",
+    "fedi-key": "API Key",
+    "fedi-key-tip": "You can create an API key at: <a href=\"https://takahashim.github.io/mastodon-access-token/\" target=\"_blank\">https://takahashim.github.io/mastodon-access-token/</a>",
+    "fedi-dialog-reply": "Dialog reply text",
+    "fedi-dialog-copy": "Dialog copy text",
+    "fedi-styles": "CSS Styles"
+}

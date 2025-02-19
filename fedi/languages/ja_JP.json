@@ -1,0 +1,19 @@
+{
+    "plugin-data": {
+        "name": "フェディコメント",
+        "description": "あなたのページにFediverseコメントを含めます。"
+    },
+    "please-support-mrbot": "私のプラグインを楽しんでいただけたら、下のボタンをクリックしてサポートしてください。ありがとうございます！",
+    "shortcut": "管理サイドバー",
+    "show-shortcut": "ショートカットを表示",
+    "fedi-help": "投稿の中にFediverseコメントを配置するために以下のプレースホルダーを使用してください: <code>[[FEDI::$post_id]]</code>。",
+    "fedi-host": "ホスト",
+    "fedi-host-tip": "Fediverseのホスト名、例: https://mastodon.social",
+    "fedi-user": "ユーザー名",
+    "fedi-user-tip": "@を除いたFediverseのユーザー名、例: @usernameの代わりにusername。",
+    "fedi-key": "APIキー",
+    "fedi-key-tip": "APIキーは以下で作成できます: <a href=\"https://takahashim.github.io/mastodon-access-token/\" target=\"_blank\">https://takahashim.github.io/mastodon-access-token/</a>",
+    "fedi-dialog-reply": "ダイアログ返信テキスト",
+    "fedi-dialog-copy": "ダイアログコピーテキスト",
+    "fedi-styles": "CSSスタイル"
+}

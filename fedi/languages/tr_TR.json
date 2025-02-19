@@ -1,0 +1,19 @@
+{
+    "plugin-data": {
+        "name": "Fedi Yorumları",
+        "description": "Sayfanıza Fediverse yorumları ekleyin."
+    },
+    "please-support-mrbot": "Eğer eklentimi beğendiyseniz, lütfen aşağıdaki butona tıklayarak bana destek olun. Teşekkürler!",
+    "shortcut": "Yönetici yan menüsü",
+    "show-shortcut": "Kısayolu göster",
+    "fedi-help": "Fediverse yorumlarını göndermek için aşağıdaki yer tutucuyu kullanın: <code>[[FEDI::$post_id]]</code>.",
+    "fedi-host": "Ana makina",
+    "fedi-host-tip": "Fediverse ana bilgisayar adı, örnek: https://mastodon.social",
+    "fedi-user": "Kullanıcı adı",
+    "fedi-user-tip": "Fediverse kullanıcı adı, @ olmadan, örnek: @username yerine username.",
+    "fedi-key": "API Anahtarı",
+    "fedi-key-tip": "Bir API anahtarı oluşturabilirsiniz: <a href=\"https://takahashim.github.io/mastodon-access-token/\" target=\"_blank\">https://takahashim.github.io/mastodon-access-token/</a>",
+    "fedi-dialog-reply": "Diyalog yanıt metni",
+    "fedi-dialog-copy": "Diyalog kopyalama metni",
+    "fedi-styles": "CSS Stillleri"
+}

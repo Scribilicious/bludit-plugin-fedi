@@ -1,0 +1,19 @@
+{
+    "plugin-data": {
+        "name": "Commentaires Fedi",
+        "description": "Inclure des commentaires du Fediverse dans votre page."
+    },
+    "please-support-mrbot": "Si vous appréciez mon plugin, merci de me soutenir en cliquant sur le bouton ci-dessous. Merci !",
+    "shortcut": "Barre latérale d'administration",
+    "show-shortcut": "Afficher le raccourci",
+    "fedi-help": "Utilisez le placeholder suivant pour placer les commentaires du Fediverse dans votre article : <code>[[FEDI::$post_id]]</code>.",
+    "fedi-host": "Hôte",
+    "fedi-host-tip": "Le nom d'hôte du Fediverse, exemple : https://mastodon.social",
+    "fedi-user": "Nom d'utilisateur",
+    "fedi-user-tip": "Le nom d'utilisateur Fediverse sans le @, exemple : username au lieu de @username.",
+    "fedi-key": "Clé API",
+    "fedi-key-tip": "Vous pouvez créer une clé API sur : <a href=\"https://takahashim.github.io/mastodon-access-token/\" target=\"_blank\">https://takahashim.github.io/mastodon-access-token/</a>",
+    "fedi-dialog-reply": "Texte de réponse du dialogue",
+    "fedi-dialog-copy": "Texte de copie du dialogue",
+    "fedi-styles": "Styles CSS"
+}
