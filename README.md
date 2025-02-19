@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Do you like Mastodon / the Fediverse and want to add comments to your posts? Mr. Bot's "Fedi Comments" makes it possible thanks to [Michael's](https://mstdn.thms.uk/@michael) [code](https://gist.github.com/nanos/e216395b4110189e7b12cec88b7a9f34).
+Do you like Mastodon / the Fediverse and want to add comments to your posts? Mr. Bot's "Fedi Comments" makes it possible partly thanks to [Michael's](https://mstdn.thms.uk/@michael) [code](https://gist.github.com/nanos/e216395b4110189e7b12cec88b7a9f34).
 
 ## Features
 
